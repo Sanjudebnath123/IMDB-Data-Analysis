@@ -1,6 +1,6 @@
 # IMDB Data Analysis
 <p align="center">
-  <img width="400" height=" 200" src="IMDB CASE IMG/PngItem_485125.png">
+  <img width="800" height=" 400" src="IMDB CASE IMG/PngItem_485125.png">
 </p>
 
 Description :
@@ -48,10 +48,10 @@ Summarizing the report findings, here are the results of the analysis :
 
 2.According to data set West Germany (8.40) has the highest average IMDb score and New Line(4.4) has the lowest average IMDb score.
 
-<p align="topleft">
+<p align="center">
   <img width="400" height="200" src="IMDB CASE IMG/Highest country imdb.jpg">
 </p>
-<p align="topright">
+<p align="center">
   <img width="400" height="200" src="IMDB CASE IMG/Lowest county.jpg">
 </p>
 
@@ -80,10 +80,14 @@ Summarizing the report findings, here are the results of the analysis :
 
 6.Top Budget Movies :
         
-  -The Host																
-  -Lady vengeance																
-  -Fateless																
-  -Princess Mononoke																
+  -The Host	
+  
+  -Lady vengeance	
+  
+  -Fateless			
+  
+  -Princess Mononoke	
+  
   -Steamboy
 
 <p align="center">
