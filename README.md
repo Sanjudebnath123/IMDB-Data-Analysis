@@ -38,15 +38,18 @@ Summarizing the report findings, here are the results of the analysis :
 
 5.The ShawShank Redemption (9.3) have the highest IMDb score.
 
+
 6. Top Budget Movies :
 
 Conclusion :
 -
 The IMDb Data Analysis Project has culminated in a comprehensive exploration of the dataset, shedding light on various aspects of the film industry.In conclusion, the IMDb Data Analysis Project not only provides a snapshot of the current state of the film industry with actionable insights for future endeavors. The intersection of data analytics and the cinematic world offers a powerful tool for decision-makers to navigate an ever-evolving landscape and enhance the overall cinematic experience for audiences.
+ 
  -The analysis revealed trends in movie ratings over time, helping to identify periods of cinematic excellence and potential shifts in audience preferences.
  -Certain genres emerged as consistently popular, providing valuable insights for filmmakers and studios looking to cater to audience preferences.
 
 Crafted by :
 -
--[@Sanjudebnath123]
+-[@Sanjudebnath123](https://github.com/Sanjudebnath123)
+
 Sanju Debnath - Data Analyst
