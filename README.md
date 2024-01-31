@@ -7,9 +7,13 @@ The IMDb Data Analysis Project involves a comprehensive study of the IMDb datase
 This Project involves the following steps :
 -
 -Data Understanding by problems
+
 -Data Cleaning
+
 -Data Manipulating
+
 -Explotory data analysis(EDA)
+
 -Data visualization by Dashboard & insights
 
 The project also gave important answers to questions like :
