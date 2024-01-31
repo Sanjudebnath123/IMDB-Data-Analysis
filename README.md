@@ -56,6 +56,7 @@ Summarizing the report findings, here are the results of the analysis :
 </p>
 
 3. Top 5 Highest Revenue Movies :
+
    1.Avatar
 
    2.Titanic
