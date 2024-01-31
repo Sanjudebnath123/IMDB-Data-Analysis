@@ -19,33 +19,63 @@ This Project involves the following steps :
 The project also gave important answers to questions like :
 -
 1. Which genre generated highest and lowest revenue ?
+
 2. Which country has the highest and lowest average of IMDb score ?
+
 3. Which was the Most profitable movies ?
+
 4. Which movie genres are most common in data set ?
+
 5. Which movie have the higest IMDb Score ?
+
 6. Which are the Top 5 budget movies ?
+
 7. Which country produce the most number of movies ?
-8.n India , Which genre of movies is most commonly produced?
+
+8.   In India , Which genre of movies is most commonly produced?
 
    
 Summarizing the report findings, here are the results of the analysis :
 -
 1.According to the data set we can  show that Action genre had generated the highest revenue with $ 67,59,97,69,950 and Thriller had generated the lowest revenue $ 1,21,539.ve Japanese movies in the database were 
   produced in English.
+<p align="center">
+  <img width="600" height="300" src="pr.png">
+</p>
 
 2.According to data set China (7.01) has the highest average IMDb score and Canada (6.22) has the lowest average IMDb score.
+<p align="center">
+  <img width="600" height="300" src="pr.png">
+</p>
 
 3.Avatar (2009) was the Most profitable movies with 523.51M .
+<p align="center">
+  <img width="600" height="300" src="pr.png">
+</p>
 
 4.Action gets most like genre.
 
 5.The ShawShank Redemption (9.3) have the highest IMDb score.
+<p align="center">
+  <img width="600" height="300" src="pr.png">
+</p>
 
-6. Top Budget Movies :
+6.Top Budget Movies :
+   1.The Host																
+	2. Lady vengeance																
+	3. Fateless																
+	4. Princess Mononoke																
+	5. Steamboy
+<p align="center">
+  <img width="600" height="300" src="pr.png">
+</p>
 
-7.
+7.USA (2944) produce the most number of movies.
+<p align="center">
+  <img width="600" height="300" src="pr.png">
+</p>
 
-8.
+8.Drama is most commonly produced genre in India.
 
 
 Conclusion :
