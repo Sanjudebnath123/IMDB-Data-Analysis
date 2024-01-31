@@ -43,12 +43,17 @@ Summarizing the report findings, here are the results of the analysis :
   <img width="600" height="300" src="pr.png">
 </p>
 
-2.According to data set China (7.01) has the highest average IMDb score and Canada (6.22) has the lowest average IMDb score.
+2.According to data set West Germany (8.40) has the highest average IMDb score and New Line(4.4) has the lowest average IMDb score.
 <p align="center">
   <img width="600" height="300" src="pr.png">
 </p>
 
-3.Avatar (2009) was the Most profitable movies with 523.51M .
+3. 1.Avatar
+   2.Titanic
+   3.Jurassic World
+   4. The Avengers
+   5. 5.Dark Knight  
+  
 <p align="center">
   <img width="600" height="300" src="pr.png">
 </p>
