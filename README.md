@@ -1,6 +1,6 @@
 # IMDB Data Analysis
 <p align="center">
-  <img width="600" height="400" src="IMDB CASE IMG/PngItem_485125.png">
+  <img width="400" height=" 200" src="IMDB CASE IMG/PngItem_485125.png">
 </p>
 
 Description :
@@ -47,17 +47,24 @@ Summarizing the report findings, here are the results of the analysis :
 </p>
 
 2.According to data set West Germany (8.40) has the highest average IMDb score and New Line(4.4) has the lowest average IMDb score.
-<p align="left">
+
+<p align="topleft">
   <img width="400" height="200" src="IMDB CASE IMG/Highest country imdb.jpg">
 </p>
-<p align="right">
-  <img width="400" height="200" src="IMDB CASE IMG/Highest country imdb.jpg">
+<p align="topright">
+  <img width="400" height="200" src="IMDB CASE IMG/Lowest county.jpg">
 </p>
-3. 1.Avatar
+
+3. Top 5 Highest Revenue Movies :
+   1.Avatar
+
    2.Titanic
+
    3.Jurassic World
-   4. The Avengers
-   5. 5.Dark Knight  
+
+   4.The Avengers
+
+   5.Dark Knight  
   
 <p align="center">
   <img width="400" height="200" src="IMDB CASE IMG/Top 5 movies.jpg">
@@ -66,21 +73,25 @@ Summarizing the report findings, here are the results of the analysis :
 4.Action gets most like genre.
 
 5.The ShawShank Redemption (9.3) have the highest IMDb score.
+
 <p align="center">
   <img width="400" height="200" src="IMDB CASE IMG/8 IMDB movies.jpg">
 </p>
 
 6.Top Budget Movies :
-   1.The Host																
-	2. Lady vengeance																
-	3. Fateless																
-	4. Princess Mononoke																
-	5. Steamboy
+        
+  -The Host																
+  -Lady vengeance																
+  -Fateless																
+  -Princess Mononoke																
+  -Steamboy
+
 <p align="center">
   <img width="400" height="200" src="IMDB CASE IMG/top 5 budget movie.jpg">
 </p>
 
 7.USA (2944) produce the most number of movies.
+
 <p align="center">
   <img width="400" height="200" src="IMDB CASE IMG/Top Country.jpg">
 </p>
