@@ -1,6 +1,6 @@
 # IMDB Data Analysis
 <p align="center">
-  <img width="800" height=" 400" src="IMDB CASE IMG/PngItem_485125.png">
+  <img width="600" height=" 400" src="IMDB CASE IMG/PngItem_485125.png">
 </p>
 
 Description :
