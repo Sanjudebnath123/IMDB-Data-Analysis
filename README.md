@@ -24,6 +24,8 @@ The project also gave important answers to questions like :
 4. Which movie genres are most common in data set ?
 5. Which movie have the higest IMDb Score ?
 6. Which are the Top 5 budget movies ?
+7. Which country produce the most number of movies ?
+
    
 Summarizing the report findings, here are the results of the analysis :
 -
@@ -38,8 +40,9 @@ Summarizing the report findings, here are the results of the analysis :
 
 5.The ShawShank Redemption (9.3) have the highest IMDb score.
 
-
 6. Top Budget Movies :
+
+7.
 
 Conclusion :
 -
