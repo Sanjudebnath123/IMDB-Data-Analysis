@@ -25,6 +25,7 @@ The project also gave important answers to questions like :
 5. Which movie have the higest IMDb Score ?
 6. Which are the Top 5 budget movies ?
 7. Which country produce the most number of movies ?
+8.n India , Which genre of movies is most commonly produced?
 
    
 Summarizing the report findings, here are the results of the analysis :
@@ -43,6 +44,9 @@ Summarizing the report findings, here are the results of the analysis :
 6. Top Budget Movies :
 
 7.
+
+8.
+
 
 Conclusion :
 -
